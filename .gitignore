@@ -1,6 +1,4 @@
-*.mp3
-*.part
 *.pyc
 *.log
-DDHelper/setting.json
-DDHelper/cmdlog.json
+.vscode
+Pipfile.lock*.part
